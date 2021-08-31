@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Dinner at Ximena's",
+      "day": "25th Oct 2021",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Example task",
+      "day": "Example day; example date.",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
